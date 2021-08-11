@@ -1,4 +1,4 @@
-# midi2sdr
+# midi2str
 A crappy tool to convert your MIDI files to notes-length pair
 
 ## Limitation of this tool
